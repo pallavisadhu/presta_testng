@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-05T18:36:49 CST" name="Suite" finished-at="2023-03-05T18:37:13 CST" duration-ms="24168">
+    <groups>
+    </groups>
+    <test started-at="2023-03-05T18:36:49 CST" name="Test" finished-at="2023-03-05T18:37:13 CST" duration-ms="24168">
+      <class name="presta_testcases.TC_01">
+        <test-method is-config="true" signature="init()[pri:0, instance:presta_testcases.TC_01@47542153]" started-at="2023-03-05T18:36:49 CST" name="init" finished-at="2023-03-05T18:37:00 CST" duration-ms="11429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyNavigationToDashboard()[pri:1, instance:presta_testcases.TC_01@47542153]" started-at="2023-03-05T18:37:00 CST" name="verifyNavigationToDashboard" finished-at="2023-03-05T18:37:07 CST" duration-ms="6957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationToDashboard -->
+        <test-method signature="verifyEmailId()[pri:2, instance:presta_testcases.TC_01@47542153]" started-at="2023-03-05T18:37:07 CST" name="verifyEmailId" finished-at="2023-03-05T18:37:12 CST" duration-ms="4349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailId -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:presta_testcases.TC_01@47542153]" started-at="2023-03-05T18:37:12 CST" name="tearDown" finished-at="2023-03-05T18:37:13 CST" duration-ms="1338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- presta_testcases.TC_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
